@@ -1,6 +1,6 @@
 # Vidyarthi-Saathi
 
- 📚 Vidyarthi Saathi – AI-Powered History Chatbot (In Progress)
+ 📚 Vidyarthi Saathi – AI-Powered History Chatbot
 
 **Vidyarthi Saathi** is an AI-driven Android application designed to assist 8th-grade students in learning history more interactively. The app features a smart chatbot that leverages **Natural Language Processing (NLP)** and **TF-IDF** techniques through a **Flask-based REST API**, offering accurate and curriculum-aligned answers to students’ queries.
 
