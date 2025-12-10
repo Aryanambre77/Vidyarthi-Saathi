@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "344170234841",
+    "project_id": "history-chatbot-19949",
+    "storage_bucket": "history-chatbot-19949.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344170234841:android:5346c9391b298ce5094fc8",
+        "android_client_info": {
+          "package_name": "com.example.chat_application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBM6NDSTC1pZJksaOGHZQ3qocDjlx8Jh2Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344170234841:android:e3797701f2d7deb8094fc8",
+        "android_client_info": {
+          "package_name": "com.example.history_chatbot_application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBM6NDSTC1pZJksaOGHZQ3qocDjlx8Jh2Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

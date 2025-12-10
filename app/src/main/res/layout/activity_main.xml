@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:gravity="center">
+
+    <!-- EditText for Question Input -->
+    <EditText
+        android:id="@+id/editTextQuestion"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Ask your question..."
+        android:inputType="text"
+        android:layout_marginTop="16dp"
+        android:padding="10dp"
+        />
+
+    <Button
+        android:id="@+id/buttonSend"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Ask"
+        android:layout_marginTop="16dp"
+        android:padding="12dp"
+        android:textColor="#ffffff"
+        /> <!-- Optional button styling -->
+
+    <!-- TextView for Bot's Response -->
+    <TextView
+        android:id="@+id/textViewAnswer"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Bot reply will appear here"
+        android:paddingTop="16dp"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:gravity="center"
+        android:textColor="#333333"
+        android:layout_marginTop="16dp" />
+
+</LinearLayout>
